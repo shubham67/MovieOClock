@@ -10,9 +10,6 @@ Use your own API key for the usage of The Movie DB API.
 
 Popular Movies is an app, which enables the user to instantly look up the most popular (or top rated) movies. Starting in a recycler view, the posters of the movies are shown. When the user selects a movie, a detail view shows further information, like title, year, rating, and a short description. Movie data is asynchronously fetched from [TheMovieDB.org](https://www.themoviedb.org/). The user is able to sort the movies by rating, or popularity. The whole project is started from scratch, and is continued in Stage 2 (see below). 
 
-```html
-{{a_bc}}
-```
 
     
 ### P2 - Popular Movies Stage 2 
